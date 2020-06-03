@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lets Try</string>
+    <string name="screenText">Здравcтвуйте!</string>
+    <string name="startButton">Начать!</string>
+    <string name="LanguageListText">Список доступных языков</string>
+    <string name="englishButton">Английский</string>
+    <string name="chineseButton">Китайский</string>
+    <string name="spanishButton">Испанский</string>
+    <string name="ostText">Скоро появится больше языков</string>
+    <string name="make_a_word">Собери слово</string>
+    <string name="cards">Карточки</string>
+    <string name="studying_english_well">Что дальше?</string>
+    <string name="cards_progress">Карточка 1/</string>
+    <string name="background">a</string>
+    <string name="description1">one</string>
+    <string name="description2">two</string>
+    <string name="description3">three</string>
+    <string name="hint">Ввод</string>
+    <string name="check">Проверить</string>
+    <string name="hintpic">hintPic</string>
+    <string name="showNext">Пропустить</string>
+    <string name="scoreResult"> Кликните по экрану, чтобы увидеть результат.</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="extraActivities">Скоро появится больше активностей</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
